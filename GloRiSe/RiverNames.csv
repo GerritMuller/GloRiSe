@@ -1,0 +1,304 @@
+﻿Basin,River name,Basin_ID
+Amazon,AMZ,1001
+Orinoco,ORI,1002
+Maroni,MAR,1003
+Paraná,PAR,1004
+Uruguay,URU,1005
+Rio Colorado,RCO,1006
+Rio Negro,RNE,1007
+Rio Chubut,CHU,1008
+Rio Deseado,DES,1009
+Rio Chico,CHI,1010
+Rio Santa Cruz,SNC,1011
+Rio Coyle,COY,1012
+Galegos ,GAL,1013
+Magdalena,MGL,1014
+Mameyes River (Puerto Rico),MMY,1014
+Chester,CHS,2001
+Conneticut,CNC,2002
+Norwalk,NWK,2003
+Hudson,HUD,2004
+Raritan,RRT,2005
+Great Egg Harbor ,GEH,2006
+Delaware,DEL,2007
+Schuylkill ,SYK,2008
+Leipsic,LPS,2009
+Murderkill,MDK,2010
+Mispillion,MPL,2011
+Indian,IND,2012
+Rehoboth,RHB,2013
+Wicomico,WCM,2014
+Nanticoke,NTC,2015
+Choptank,CPT,2016
+Susquehanna,SQH,2017
+Potomac,PTM,2018
+Tar,TAR,2019
+Roanoke ,RNK,2020
+Neuse,NUS,2021
+Cape Fear,CPF,2022
+South Edison,SED,2023
+Ediston,EDI,2024
+Altamaha,ALT,2025
+Saint Marys,STM,2026
+Saint Johns,STJ,2027
+Hillsborough,HLB,2028
+Suwannee,SWN,2029
+Ochlockonee ,OCH,2030
+Apalachicola,APC,2031
+Mobile,MOB,2032
+Mississipi,MSS,2033
+Huron,HUR,2034
+Fox,FOX,2035
+Twin rivers,TWN,2036
+Sheboygan,SHB,2037
+Milwaukee,MWK,2038
+Chicago,CHG,2039
+Trinity,TNY,2040
+Carson ,CSN,2041
+Truckee,TRK,2042
+Santa Ana,STA,2043
+San Joaquin,SJQ,2044
+James,JMS,2045
+Sabine,SAB,2046
+Colorado,COL,2047
+Brazos,BRA,2048
+Rio Grande,RGR,2049
+Colorado Tex,CLR,2050
+Sacramento River,SCM,2051
+Skokomish River,SKM,2052
+Big Beef Creek,BBC,2053
+Dogfish Creek ,DGF,2054
+Gorst Creek,GOR,2055
+Ollala Creek,OLA,2056
+Minter Creek,MIN,2057
+Coulter Creek,COU,2058
+Chanmbers Creek,CHM,2059
+Puyallup River,PLP,2060
+Duwamish River,DWM,2061
+"Coal Creek, WA",COA,2062
+Juanita Creek,JUA,2063
+Sammamish River,SMM,2064
+Thornton Creek,TNT,2065
+Pipers Creek,PPR,2066
+Snohomish river,SNH,2067
+Columbia River,CLB,2068
+Waikele Stream,WAI,2069
+Palolo Stream,PAL,2070
+Waihee Stream,WHE,2071
+Santee river,SNT,2072
+Savannah River,SVN,2073
+Glades Canal,GDC,2075
+Skeena River,SKE,2076
+Nass,NAS,2077
+Stikine,STK,2078
+Pee Dee,PED,2079
+Donau,DON,3001
+Seine,SEN,3002
+Somme,SOM,3003
+Rhine,RHN,3004
+Meuse,MUS,3005
+Ems,EMS,3006
+Elbe,ELB,3007
+Scheldt,SLD,3008
+Po,POO,3009
+Loire,LOR,3010
+Rhône,RHO,3011
+Tagus,TAG,3012
+Guadalquivir,GAQ,3013
+Ave,AVE,3014
+Minho,MNH,3015
+Bidasoa,BID,3016
+Oria,OIA,3017
+Lea,LEA,3018
+Volturno,VOL,3019
+Savuto,SVT,3020
+Krka,KRK,3021
+Buyukmelen,BYM,3022
+Humber,HMB,3023
+Kalix,KLX,3024
+Garonne,GRN,3025
+Adour,ADR,3026
+Bug,BUG,3027
+Daugava,DAG,3028
+Dnepr,DNP,3029
+Don (Russia),DNR,3030
+Fyris,FYR,3031
+Kuban,KBN,3032
+Roini,RIN,3033
+Amur,AMR,4001
+Huanghe,HUA,4002
+Changjiang,CHN,4003
+Tumenjiang,TUM,4004
+Yalujiang,YAL,4005
+Liaohe,LAO,4006
+Luanhe,LUA,4007
+Huaihe,HIH,4008
+Qiantang,QTG,4009
+Minjiang,MNJ,4010
+Zhujiang,ZHU,4011
+Kuji,KJI,4012
+Cisadane,CIS,4013
+Cengkareng,CGK,4014
+Angke,ANK,4015
+Murara Karang,MUK,4016
+Murara Baru,MUB,4017
+Ancol,ANC,4018
+Sunter,SNT,4019
+Cakung,CKG,4020
+Blencong,BLC,4021
+Banjir,BJR,4022
+Gabah,GBH,4023
+Citarum,CIT,4024
+Perancis,PRC,4025
+Bekasi,BKS,4026
+Song Hong,HHE,4027
+Mekong,MKG,4028
+Salween,SLW,4029
+Irrawady,IWD,4030
+Chao Phraya,CPH,4031
+Sittang,STG,4032
+Cauvery,CUV,4033
+Brahmaputra,BMP,4034
+Ganges,GGS,4035
+Jamuna,JMN,4036
+Narmada,NMD,4037
+Tapti,TPT,4038
+Mahanadi,MHD,4039
+Godavari,GDV,4040
+Krishna,KRS,4041
+Damodar,DDR,4042
+Baram,BRM,4043
+Meghna,MGH,4044
+Houlong,HOU,4045
+Tsengwen,TSE,4046
+Da'an,DAA,4047
+Dajia,DAJ,4048
+Dadu,DAU,4049
+Zhuoshui,ZHS,4050
+Laonong,LNG,4051
+Kaoping,KPG,4052
+Xindian,XND,4053
+Lanyang,LNY,4054
+Dazhu,DZU,4055
+Beinan,BNN,4056
+Xiuguluan,XGL,4057
+Hualian,HLN,4058
+Heping,HPG,4059
+Liwu,LIW,4060
+Shoufeng,SFG,4061
+Hongye,HOG,4062
+Baliwan,BLW,4063
+Gaoliao,GAO,4064
+Jiu'an,JUN,4065
+Sanzhi,SNZ,4066
+Indus,IDS,4067
+Ou,OUU,4068
+Mulan,MLN,4069
+Jiulong,JIL,4070
+Han,HAN,4071
+Da Song,DAS,4072
+Limpopo,LIM,5001
+Zambezi,ZAM,5002
+Orange,ORA,5003
+Swakop,SWA,5004
+Ugab,UGA,5005
+Okavango,OKV,5006
+Koigab,KOI,5007
+Omaruru,OMA,5008
+Hoanib,HOA,5009
+Hoarusib,HOR,5010
+Kuene,KUE,5011
+Uniab,UNI,5012
+Congo,CON,5013
+Dande,DAN,5014
+Mebridege,MEB,5015
+Cuanza,CUA,5016
+Longa,LON,5017
+Keve,KEV,5018
+Quicombo,QUI,5019
+Balombo,BLM,5020
+Catumbela,CTB,5021
+Coporolo,CPL,5022
+Carujamba,CRJ,5023
+Bentiaba,BEN,5024
+Giraul,GRL,5025
+Curoca,CUR,5026
+Nile,NIL,5027
+Niger,NIG,5028
+Senegal,SNG,5029
+Sous,SOU,5030
+Euphrates & Tigris,EUT,5030
+Wadi al-Batin,WAB,5031
+Gambia,GMB,5032
+Medjerda,MDJ,5033
+Ogooue,OGO,5034
+Sanaga,SAG,5035
+Sebou,SEB,5036
+Murray-Darling System,MUD,6001
+Waihou,WAH,6002
+Kaituna,KAI,6003
+Whakatane,WHA,6004
+Motu,MOT,6005
+Waiapu,WAP,6006
+Wairoa S,WAR,6007
+Ngaruroro,NGA,6008
+Porangahau,POR,6009
+Tiarnattanga,TIA,6010
+Wairau,WIR,6011
+Clarence,CLA,6012
+Waiau ,WAN,6013
+Hurunui,HUR,6014
+Rakaia,RAK,6015
+Rangitata,RAN,6016
+Waitaki,WAT,6017
+Taieri,TAI,6018
+Clutha,CLU,6019
+Mataura,MAT,6020
+Haast,HAA,6021
+Hokitika,HOK,6022
+Grey,GRY,6023
+Buller,BUL,6024
+Karamea,KAR,6025
+Takaka,TAK,6026
+Motueka,MTK,6027
+Manawatu,MWT,6028
+Wanganui,WAG,6029
+Patea,PAT,6030
+Waitara,WTA,6031
+Mokau,MOK,6032
+Waikato,WAK,6033
+Wairoa ,WOA,6034
+Waiau South,WAS,6035
+Cleddau,CLD,6036
+Mackenzie,MKZ,8001
+Colleville,CLV,8002
+Sagavanirktok,SGK,8003
+Kurapuk,KPK,8004
+Yukon,YKN,8005
+Zackenbergelven,ZKB,8006
+St Lawrence,STL,8007
+Red Arctic,RDA,8008
+Peel,PEL,8009
+Lena,LEN,8011
+Ob,OB,8012
+Yenisey,YEN,8013
+Yana,YAN,8014
+Khatanga,KHT,8015
+Srednyaya Dvina,SDV,8016
+Kola,KOL,8017
+Pur,PUR,8018
+Taz,TAZ,8019
+Jokulsa á dál,JOK,8021
+Lagarfljót,LGF,8022
+Olfusa,OLF,8023
+Akuliarusiarsuup,AKU,8024
+Kenai River,KEN,8025
+Campbell river,CMB,8026
+Chester river (Alaska),CHE,8027
+Knick river,KNK,8028
+Little Sustina river,SUS,8029
+Eastmain,ESM,8030
+La Grande,LGR,8031
+Moose,MOO,8032
+Pechora,PCH,8033
+Seal,SEL,8034
