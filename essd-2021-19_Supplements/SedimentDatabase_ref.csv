@@ -1,0 +1,108 @@
+﻿Source_ID,Source_type,Peer_reviewed,citation,Pub_year,Access_date
+ROU,paper,YES,Rousseau et al. 2019,2019,4/6/2020
+BER,paper,YES,Bertassoli et al. 2017,2021,4/7/2020
+WAG,paper,YES,Wagemann et al. 1977,1977,4/8/2020
+TRE,report,NO,Trefry et al. 2004,2004,4/8/2020
+STR,paper,YES,Striegl et al. 2007,2007,4/8/2020
+DRN,paper,YES,Dornblaser & Striegl 2009,2009,4/9/2020
+HSH,paper,YES,Hasholt & Hagedorn 2000,2000,4/9/2020
+EBR,paper,YES,Eberl 2004,2004,4/10/2020
+RCH,paper,YES,Rachold et al. 1996,1997,4/12/2020
+GDV,paper,YES,Gordeev et al. 2004,2004,4/13/2020
+GDA,report,NO,Gordeev et al. 2007,2007,4/13/2020
+RHD,book chapter,YES,Rachold 1997,1999,4/13/2020
+PKV,paper,YES,Pokrovsky et al. 2010,2010,4/16/2020
+PKA,paper,YES,Pekka et al. 2004,2004,4/16/2020
+GRD,paper,YES,Gordeev et al. 2012,2012,4/17/2020
+KKV,paper,YES,Krickov et al. 2019,2019,4/17/2020
+ERK,paper,YES,Eriksdottir et al. 2008,2008,4/20/2020
+TOP,paper,YES,Thorpe et al. 2019,2019,4/28/2020
+GLD,paper,YES,Gaillardet et al. 1999,1999,4/30/2020
+CAN,paper,YES,Canfield 1997,1997,5/18/2020
+GLR,paper,YES,Hartmann et al. 2014,2014,5/24/2020
+GAD,paper,YES,Gaillardet et al. 2003,2003,6/10/2020
+DEP,paper,YES,DePetris et al. 2003,2003,6/11/2020
+GAI,paper,YES,Gaiero et al. 2007,2007,6/15/2020
+CLK,paper,YES,Clark et al. 2016,2016,6/29/2020
+DGL,paper,YES,Douglas et al. 1999,1999,6/29/2020
+MMC,paper,YES,Martin & McCulloch 1998,1998,6/29/2020
+CRC,paper,YES,Churchman et al. 1988,1998,6/30/2020
+AND,paper,YES,Andrews et al. 2016,2016,7/1/2020
+ADR,paper,YES,Andrews et al. 2018,2018,7/1/2020
+GAZ,paper,YES,Garzanti et al. 2014,2014,7/13/2020
+COM,paper,YES,Compton & Maake 2007,2007,7/13/2020
+DIN,paper,YES,Dinis et al. 2020,2020,7/13/2020
+MRT,paper,YES,Martins 1988,1988,7/15/2020
+MBA,paper,YES,Mbaye et al. 2015,2015,7/15/2020
+ABS,paper,YES,Abdel-Satar 2005,2005,8/3/2020
+GZI,paper,YES,Garzanti et al. 2015,2015,8/3/2020
+GRZ,paper,YES,Garzanti et al. 2016,2016,8/3/2020
+LUC,paper,YES,Lucic et al. 2019,2019,8/4/2020
+SAL,paper,YES,Salomons 1975,1975,8/4/2020
+VDP,paper,YES,van der Perk & Espinoza Vilches 2020,2020,8/4/2020
+LTG,paper,YES,Lartiges et al. 2000,2000,8/4/2020
+VWM,paper,YES,van der Weijden & Middelburg 1989,1989,8/5/2020
+ZVE,paper,YES,Zwolsman & van Eck 1999,1999,8/5/2020
+ROY,paper,YES,Roy et al. 1999,1999,8/5/2020
+TSI,paper,YES,Tesi et al. 2013,2013,8/5/2020
+PET,paper,YES,Pettine et al. 1994,1994,8/6/2020
+MKM,paper,YES,Manickam et al. 1985,1985,8/6/2020
+GRB,paper,YES,Grosbois et al. 2001,2001,8/6/2020
+NEG,paper,YES,Negrel & Grosbois 1999,1999,8/6/2020
+OLL,paper,YES,Ollivier et al. 2010,2010,8/6/2020
+AUC,paper,YES,Aucour et al. 1999,1999,8/6/2020
+VAL,paper,YES,Vale 1986,1986,8/11/2020
+ENG,paper,YES,Enguix-Gonzales et al. 2000,2000,8/11/2020
+ARJ,paper,YES,Araujo et al. 1998,1998,8/11/2020
+FIL,paper,YES,Filgueiras et al. 2004,2004,8/11/2020
+RUI,paper,YES,Ruiz & Romero 1995,1995,8/11/2020
+DAV,paper,YES,Davide et al. 2003,2003,8/13/2020
+BRT,paper,YES,Bartoli et al. 2012,2012,8/13/2020
+LPS,paper,YES,Le Pera & Sorriso-Valvo 2000,2000,8/13/2020
+MIH,paper,YES,Mihai & Mather 2003,2003,8/13/2020
+PRJ,paper,YES,Prohic & Juracic 1989,1989,8/18/2020
+BRV,paper,YES,Borovec & Mraz 1992,1992,8/18/2020
+VPT,paper,YES,van Put et al. 1994,1994,8/18/2020
+NVR,paper,YES,Navratil et al. 2008,2008,8/18/2020
+PLV,paper,YES,Pehlivan 2010,2010,8/19/2020
+RES,paper,YES,Rees et al. 1998,1998,8/19/2020
+ADS,paper,YES,Andersson et al. 1998,1998,8/19/2020
+ODM,paper,YES,Oedman et al. 1999,1999,8/19/2020
+SOZ,paper,YES,Sorokina & Zarubina 2011,2011,8/28/2020
+SRZ,paper,YES,Sorokina & Zarubina 2013,2013,8/28/2020
+SOR,paper,YES,Sorokina 2020,2020,8/28/2020
+PNG,paper,YES,Pang et al. 2018,2018,9/1/2020
+HUA,paper,YES,Huang et al. 1992,1998,9/1/2020
+YUH,paper,YES,Yuan-Hui et al. 1984,1984,9/1/2020
+QIA,paper,YES,Qiao et al. 2007,2007,9/1/2020
+CHW,paper,YES,Chen & Wang 1996,1996,9/2/2020
+CHT,paper,YES,Chetalat et al. 2009,2009,9/2/2020
+CHT,paper,YES,Chetalat et al. 2013,2013,9/2/2020
+NGN,paper,YES,Nagano et al. 2003,2003,9/2/2020
+SND,paper,YES,Sindern et al. 2016,2016,9/3/2020
+YNG,paper,YES,Yang et al. 2002,2002,9/8/2020
+YAN,paper,YES,Yang et al. 2004,2004,9/8/2020
+QUU,paper,YES,Qu et al. 1993,1993,9/8/2020
+BRG,paper,YES,Borges et al. 2008,2008,9/9/2020
+HOS,paper,YES,Hossain et al. 2017,2017,9/9/2020
+GAR,paper,YES,Garzanti et al. 2016b,2016,9/10/2020
+SBR,paper,YES,Subramanian et al. 1985,1985,9/10/2020
+SUB,paper,YES,Subramanian et al. 1980,1980,9/11/2020
+SBA,paper,YES,Subramanian et al. 1985b,1985,9/11/2020
+SGH,paper,YES,Singh & Hasnain 1999,1999,9/11/2020
+PBK,paper,YES,Prakabaran et al. 2019,2019,9/14/2020
+CKP,paper,YES,Chakrapani 2005,2005,9/14/2020
+GFL,paper,YES,Galy & France-Lanord 2001,2001,9/14/2020
+DLI,paper,YES,Dalai et al. 2004,2004,9/14/2020
+DLI,paper,YES,Dalai et al. 2002a,2002,9/14/2020
+DLI,paper,YES,Dalai et al. 2002b,2002,9/14/2020
+GRI,paper,YES,Garzanti & Resentini 2016,2016,9/15/2020
+GZT,paper,YES,Garzanti et al. 2011,2011,9/15/2020
+GTI,paper,YES,Garzanti et al. 2020,2020,9/15/2020
+HEE,paper,YES,He et al. 2020,2020,9/16/2020
+GRT,paper,YES,Garzanti et al. 2005,2005,9/16/2020
+VRS,paper,YES,Viers et al. 2008,2008,9/17/2020
+GUI,paper,YES,Guinoiseau et al. 2016,2016,9/17/2020
+STN,report,YES,Stirton 2016,2016,9/17/2020
+MEM,paper,YES,Martin & Meybeck 1979,1979,9/17/2020
+GGR,paper,YES,GEMS-GLORI (Meybeck & Ragu 1998),1998,9/17/2020
